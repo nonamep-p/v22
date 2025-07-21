@@ -1,0 +1,113 @@
+2025-07-12 03:12:20,932 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 03:12:20,936 - web_server - INFO - Starting web server on port 5000
+2025-07-12 03:12:20,938 - __main__ - INFO - Loaded cog: cogs.help
+2025-07-12 03:12:22,079 - cogs.ai_chatbot - ERROR - GEMINI_API_KEY not found in environment variables!
+2025-07-12 03:12:22,079 - __main__ - INFO - Loaded cog: cogs.ai_chatbot
+2025-07-12 03:12:22,092 - __main__ - INFO - Loaded cog: cogs.economy
+2025-07-12 03:12:22,100 - __main__ - INFO - Loaded cog: cogs.moderation
+2025-07-12 03:12:22,114 - __main__ - INFO - Loaded cog: cogs.rpg_games
+2025-07-12 03:12:22,120 - __main__ - ERROR - Failed to load cog cogs.admin: Extension 'cogs.admin' raised an error: TypeError: Commands or listeners must not start with cog_ or bot_ (in method AdminCog.bot_stats)
+2025-07-12 03:12:22,120 - __main__ - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-07-12 09:27:48,671 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 09:27:48,672 - web_server - INFO - Starting web server on port 5000
+2025-07-12 09:27:48,673 - __main__ - INFO - Loaded cog: cogs.help
+2025-07-12 09:27:50,133 - cogs.ai_chatbot - ERROR - GEMINI_API_KEY not found in environment variables!
+2025-07-12 09:27:50,134 - __main__ - INFO - Loaded cog: cogs.ai_chatbot
+2025-07-12 09:27:50,138 - __main__ - INFO - Loaded cog: cogs.economy
+2025-07-12 09:27:50,141 - __main__ - INFO - Loaded cog: cogs.moderation
+2025-07-12 09:27:50,150 - __main__ - INFO - Loaded cog: cogs.rpg_games
+2025-07-12 09:27:50,166 - __main__ - INFO - Loaded cog: cogs.admin
+2025-07-12 09:27:50,166 - __main__ - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-07-12 14:17:41,547 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 14:17:41,548 - web_server - INFO - Starting web server on port 5000
+2025-07-12 14:17:41,549 - __main__ - INFO - Loaded cog: cogs.help
+2025-07-12 14:17:43,096 - cogs.ai_chatbot - ERROR - GEMINI_API_KEY not found in environment variables!
+2025-07-12 14:17:43,096 - __main__ - INFO - Loaded cog: cogs.ai_chatbot
+2025-07-12 14:17:43,101 - __main__ - INFO - Loaded cog: cogs.economy
+2025-07-12 14:17:43,105 - __main__ - INFO - Loaded cog: cogs.moderation
+2025-07-12 14:17:43,110 - __main__ - INFO - Loaded cog: cogs.rpg_games
+2025-07-12 14:17:43,112 - __main__ - INFO - Loaded cog: cogs.admin
+2025-07-12 14:17:43,112 - __main__ - ERROR - DISCORD_TOKEN not found in environment variables!
+2025-07-12 14:28:14,938 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 14:28:14,939 - web_server - INFO - Starting web server on port 5000
+2025-07-12 14:28:14,940 - __main__ - INFO - Loaded cog: cogs.help
+2025-07-12 14:28:15,210 - cogs.ai_chatbot - INFO - Google Gemini API initialized successfully
+2025-07-12 14:28:15,210 - __main__ - INFO - Loaded cog: cogs.ai_chatbot
+2025-07-12 14:28:15,217 - __main__ - INFO - Loaded cog: cogs.economy
+2025-07-12 14:28:15,220 - __main__ - INFO - Loaded cog: cogs.moderation
+2025-07-12 14:28:15,222 - __main__ - INFO - Loaded cog: cogs.rpg_games
+2025-07-12 14:28:15,224 - __main__ - INFO - Loaded cog: cogs.admin
+2025-07-12 14:28:15,224 - discord.client - INFO - logging in using static token
+2025-07-12 14:28:16,051 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 134761f64c7d2e6f91026ce7bdb936e3).
+2025-07-12 14:28:18,064 - __main__ - INFO - Kaala Billota#1815 has connected to Discord!
+2025-07-12 14:28:18,065 - __main__ - INFO - Bot is in 2 guilds
+2025-07-12 14:28:18,524 - utils.database - INFO - Database initialized successfully
+2025-07-12 14:28:18,524 - __main__ - INFO - Database initialized successfully
+2025-07-12 14:28:18,525 - __main__ - ERROR - Error in event on_ready: ()
+2025-07-12 14:28:52,321 - cogs.ai_chatbot - ERROR - Error generating AI response: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-07-12 14:29:29,840 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 14:29:29,841 - web_server - INFO - Starting web server on port 5000
+2025-07-12 14:29:29,842 - __main__ - INFO - Loaded cog: cogs.help
+2025-07-12 14:29:30,155 - cogs.ai_chatbot - INFO - Google Gemini API initialized successfully
+2025-07-12 14:29:30,156 - __main__ - INFO - Loaded cog: cogs.ai_chatbot
+2025-07-12 14:29:30,158 - __main__ - INFO - Loaded cog: cogs.economy
+2025-07-12 14:29:30,161 - __main__ - INFO - Loaded cog: cogs.moderation
+2025-07-12 14:29:30,163 - __main__ - INFO - Loaded cog: cogs.rpg_games
+2025-07-12 14:29:30,165 - __main__ - INFO - Loaded cog: cogs.admin
+2025-07-12 14:29:30,165 - discord.client - INFO - logging in using static token
+2025-07-12 14:29:30,944 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0cd7ff8274fd07dc4ce691232e4b9b7c).
+2025-07-12 14:29:32,959 - __main__ - INFO - Kaala Billota#1815 has connected to Discord!
+2025-07-12 14:29:32,959 - __main__ - INFO - Bot is in 2 guilds
+2025-07-12 14:29:33,208 - utils.database - INFO - Database initialized successfully
+2025-07-12 14:29:33,208 - __main__ - INFO - Database initialized successfully
+2025-07-12 14:29:33,209 - __main__ - ERROR - Error in event on_ready: ()
+2025-07-12 14:29:58,053 - discord.app_commands.tree - ERROR - Ignoring exception in command tree
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1151, in wrapper
+    await self._call(interaction)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1283, in _call
+    command, options = self._get_app_command_options(data)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/app_commands/tree.py", line 1187, in _get_app_command_options
+    raise CommandNotFound(name, parents)
+discord.app_commands.errors.CommandNotFound: Application command 'profile' not found
+2025-07-12 14:31:00,409 - utils.database - INFO - Created user profile for 1297013439125917766
+2025-07-12 14:36:52,695 - config - INFO - Updated server config for 1376648338119589999
+2025-07-12 14:37:02,856 - config - INFO - Updated server config for 1376648338119589999
+2025-07-12 14:51:54,156 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 14:51:54,158 - web_server - INFO - Starting web server on port 5000
+2025-07-12 14:51:54,160 - __main__ - INFO - Loaded cog: cogs.help
+2025-07-12 14:51:54,848 - cogs.ai_chatbot - INFO - Google Gemini API initialized successfully
+2025-07-12 14:51:54,848 - __main__ - INFO - Loaded cog: cogs.ai_chatbot
+2025-07-12 14:51:54,855 - __main__ - INFO - Loaded cog: cogs.economy
+2025-07-12 14:51:54,858 - __main__ - INFO - Loaded cog: cogs.moderation
+2025-07-12 14:51:54,863 - __main__ - INFO - Loaded cog: cogs.rpg_games
+2025-07-12 14:51:54,868 - __main__ - INFO - Loaded cog: cogs.admin
+2025-07-12 14:51:54,868 - discord.client - INFO - logging in using static token
+2025-07-12 14:51:55,554 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: dca8dbc4c6e1aa57d8f651e2ba36cbb6).
+2025-07-12 14:51:57,563 - __main__ - INFO - Kaala Billota#1815 has connected to Discord!
+2025-07-12 14:51:57,563 - __main__ - INFO - Bot is in 2 guilds
+2025-07-12 14:51:57,810 - utils.database - INFO - Database initialized successfully
+2025-07-12 14:51:57,810 - __main__ - INFO - Database initialized successfully
+2025-07-12 14:51:57,810 - __main__ - ERROR - Error in event on_ready: ()
+2025-07-12 15:10:06,740 - config - INFO - Updated server config for 1391177808885321879
+2025-07-12 15:10:27,635 - config - INFO - Updated server config for 1391177808885321879
+2025-07-12 15:33:27,224 - discord.ui.view - ERROR - Ignoring exception in view <HelpView timeout=None children=4> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🗑️ Close' emoji=None row=1 sku_id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/cogs/help.py", line 271, in close_button
+    interaction.user == interaction.message.interaction.user) or \
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'user'
+2025-07-12 15:33:35,385 - discord.ui.view - ERROR - Ignoring exception in view <HelpView timeout=None children=4> for item <Button style=<ButtonStyle.danger: 4> url=None disabled=False label='🗑️ Close' emoji=None row=1 sku_id=None>
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/discord/ui/view.py", line 435, in _scheduled_task
+    await item.callback(interaction)
+  File "/home/runner/workspace/cogs/help.py", line 271, in close_button
+    interaction.user == interaction.message.interaction.user) or \
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'user'
+2025-07-12 15:41:53,961 - cogs.admin - INFO - Bot left guild: Aesthetic Template 2 (1376648338119589999)
+2025-07-12 15:42:22,275 - __main__ - INFO - Joined new guild: Aesthetic Template 2 (1376648338119589999)
+2025-07-12 15:42:22,553 - cogs.admin - INFO - Bot joined new guild: Aesthetic Template 2 (1376648338119589999)
